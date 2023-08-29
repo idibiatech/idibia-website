@@ -55,7 +55,8 @@
 }
 
 .media-full-4 {
-	background-image: url("../img/backgrounds/1920x1080-media-4.webp");
+	/* background-image: url("../img/backgrounds/1920x1080-media-4.webp"); */
+	background-image: url("../img/backgrounds/hero-1.jpg");
 }
 
 .media-full-5 {
