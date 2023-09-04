@@ -58,29 +58,11 @@
 	/* background-image: url("../img/backgrounds/1920x1080-media-4.webp"); */
 	background-image: url("../img/backgrounds/hero-1.jpg");
 }
-
-.media-full-5 {
-	background-image: url("../img/backgrounds/1920x1080-media-5.webp");
-}
-
-.media-full-video-1 {
-	background-image: url("../img/backgrounds/1920x1080-video-1.webp");
-}
-
-.split-slide-1 {
-	background-image: url("../img/backgrounds/960x1080-slider-1.webp");
-}
-
-.split-slide-2 {
-	background-image: url("../img/backgrounds/960x1080-slider-2.webp");
-}
-
-.split-slide-3 {
-	background-image: url("../img/backgrounds/960x1080-slider-3.webp");
-}
+/*  */
 
 .about-image {
 	background-image: url("../img/backgrounds/960x1080-inner-1.webp");
+	background-image: url("../img/backgrounds/ghib-1.jpeg");
 }
 
 .contact-image {
